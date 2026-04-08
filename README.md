@@ -35,10 +35,3 @@
   <a href="mailto:Kyrosamy1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
-  <br>
-  <img src="https://profile-counter.glitch.me/kerilouss/count.svg" alt="Visitor Count" />
-</div>
