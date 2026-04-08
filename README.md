@@ -1,34 +1,28 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="150" />
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Kerilous+👋;Mobile+App+Developer;Flutter+%26+Dart+Enthusiast;CS+Student+@+O6U" alt="Typing SVG" /></a>
-</div>
+### Hi there, I'm Kerilous! 👋
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student;Flutter+%26+Mobile+App+Dev" alt="Typing SVG" /></a>
+</p>
 
 I am a Computer Science student passionate about building impactful software and exploring new technologies. I enjoy problem-solving, building mobile applications, and exploring the world of data and security. 
 
 <br>
 
-### 📱 My Tech Stack
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github&theme=dark&perline=7" />
-  </a>
-</div>
+### 📱 Mobile App Development & Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
+</p>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 **🚀 Currently Working On:**
-- Developing backend and mobile logic for innovative startup ideas, including **Medi-Chain AI** (a smart healthcare management system).
-- Exploring the world of Software Architecture and Cybersecurity.
+- Enhancing my skills in Mobile Application Development and Visual Programming.
+- Developing backend and mobile logic for innovative startup ideas, including healthcare management solutions.
 
-**📫 Let's Connect:** - **Email:** [Kyrosamy1@gmail.com](mailto:Kyrosamy1@gmail.com)
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kerilouss/count.svg" alt="Visitor Count" />
-</div>
+**📫 How to reach me:** - Email: [Kyrosamy1@gmail.com](mailto:Kyrosamy1@gmail.com)
