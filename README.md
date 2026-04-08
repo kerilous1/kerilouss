@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Kerilous! 👋
 
-<!--
-**kerilouss/kerilouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student passionate about building impactful software and exploring new technologies. I enjoy problem-solving, building mobile applications, and exploring the world of data and security. 
 
-Here are some ideas to get you started:
+**🛠️ Languages & Tools:**
+- **Programming Languages:** Python, C++, Java, Dart, Assembly
+- **Frameworks/Tech:** Flutter 
+- **Interests:** Software Architecture, Mobile Application Development, Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Currently Working On:**
+- Enhancing my skills in Mobile Application Development and Visual Programming.
+- Developing backend and mobile logic for innovative startup ideas, including healthcare management solutions.
+
+**📫 How to reach me:** - Email: [Kyrosamy1@gmail.com](mailto:Kyrosamy1@gmail.com)
