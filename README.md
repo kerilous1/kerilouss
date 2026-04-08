@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Mobile+App+Developer;Flutter+%26+Dart+Enthusiast;Building+Medi-Chain+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Mobile+App+Developer;Building+Medi-Chain+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,8 +16,12 @@
 
 ### 📱 My Tech Stack
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=400&lines=>+Flutter;>+Dart;>+Python;>+C++;>+Java;>+Assembly" alt="Skills Typing SVG" />
+  </a>
+  <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,java,assembly,git,github&theme=dark&perline=8" />
   </a>
 </div>
 
@@ -45,6 +49,4 @@
   <br><br>
   
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kerilouss&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
