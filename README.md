@@ -35,3 +35,16 @@
   <a href="mailto:Kyrosamy1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/kerilous-samy">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/kerilous1">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="120" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kerilouss&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
